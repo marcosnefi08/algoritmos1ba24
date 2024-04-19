@@ -21,3 +21,7 @@ Passo a passo de instalação:
 -Marque a opção "Add Python to PATH"
 -Clique em "Install Now"
 -Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
+
+Como configurar o virtualenv:
+
+
