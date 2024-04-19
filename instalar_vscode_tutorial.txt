@@ -5,3 +5,8 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 Passo a passo download Vscode:
 Para fazer o download, basta acessar o site oficial: https://code.visualstudio.com/ , escolher o sistema operacional e a versão do aplicativo.
+
+Passo a passo instalação:
+- Basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows".
+Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção "Add to Path" para adicionar o Visual Studio Code nas variáveis de ambiente.
+Se tudo ocorrer como esperado, você verá a versão do Visual Studio Code instalada em sua máquina e estará tudo pronto para prosseguir.
