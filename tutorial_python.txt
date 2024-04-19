@@ -1,6 +1,10 @@
 Iniciando Tutorial de Python
-Python é uma linguagem fácil de aprender e poderosa.Ela tem estruturas de dados de alto nível 
+- Python é uma linguagem fácil de aprender e poderosa.Ela tem estruturas de dados de alto nível 
 eficientes e uma abordagem simples mas efetiva de programação orientada a objetos. A elegância
 de sintaxe e a tipagem dinâmica de Python aliadas com sua natureza interpretativa, o fazem a 
 linguagem ideal para programas e desenvolvimento de aplicações rápidas em diversas áreas e na 
 maioria das plataformas.
+
+Explicando o que é Python:
+Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada 
+a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
