@@ -6,5 +6,13 @@ linguagem ideal para programas e desenvolvimento de aplicações rápidas em div
 maioria das plataformas.
 
 Explicando o que é Python:
-Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada 
+- Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada 
 a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
+
+Passo a passo de download:
+Passo 1: Acesse o site oficial do Python
+Passo 2: Faça o download do instalador
+Passo 3: Execute o instalador
+Passo 4: Configurar as opções de instalação
+Passo 5: Concluir a instalação
+Passo 6: Verificar a instalação
