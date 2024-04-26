@@ -1,0 +1,1 @@
+Na pasta algoritmos1ba24 contém diversas pastas com arquivos de códigos separados por funções e nível de cada código.
