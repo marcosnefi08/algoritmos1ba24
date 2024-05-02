@@ -6,7 +6,7 @@ programa {
 
     escreva("Olá, Bem vindo ao site Viagens.com \n")
     escreva("--------------------------------\n")
-    escreva("Insira o seu nome de usuário: ")
+    escreva("Insira o nome do motorista: ")
     leia(usu)
     escreva("\n")
 
@@ -19,6 +19,6 @@ programa {
     tempo = dist/veloc
     
     escreva("\n", usu,", o tempo da viagem é: ", tempo, " horas.")
-    
+
   }
 }
